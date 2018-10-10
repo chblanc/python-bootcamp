@@ -1,0 +1,28 @@
+]4;0;rgb:27/28/22\]4;1;rgb:f9/26/72\]4;2;rgb:a6/e2/2e\]4;3;rgb:f4/bf/75\]4;4;rgb:66/d9/ef\]4;5;rgb:ae/81/ff\]4;6;rgb:a1/ef/e4\]4;7;rgb:f8/f8/f2\]4;8;rgb:75/71/5e\]4;9;rgb:f9/26/72\]4;10;rgb:a6/e2/2e\]4;11;rgb:f4/bf/75\]4;12;rgb:66/d9/ef\]4;13;rgb:ae/81/ff\]4;14;rgb:a1/ef/e4\]4;15;rgb:f9/f8/f5\]4;16;rgb:fd/97/1f\]4;17;rgb:cc/66/33\]4;18;rgb:38/38/30\]4;19;rgb:49/48/3e\]4;20;rgb:a5/9f/85\]4;21;rgb:f5/f4/f1\]10;rgb:f8/f8/f2\]11;rgb:27/28/22\]12;7\]0;~/Documents/code/python-bootcamp[?1034h[36mcarlosblancarte[m@[32mCarlos-MacBook-Pro:[33;1m~/Documents/code/python-bootcamp[m$ [K[36mcarlosblancarte[m@[32mCarlos-MacBook-Pro:[33;1m~/Documents/code/python-bootcamp[m$ ll
+total 8
+drwxr-xr-x   4 carlosblancarte  staff   128B Oct 10 13:39 [1m[34m.[39;49m[0m/
+drwxr-xr-x  45 carlosblancarte  staff   1.4K Oct 10 13:39 [1m[34m..[39;49m[0m/
+drwxr-xr-x   4 carlosblancarte  staff   128B Oct 10 13:39 [1m[34m.Rproj.user[39;49m[0m/
+-rw-r--r--   1 carlosblancarte  staff   205B Oct 10 13:39 python-bootcamp.Rproj
+]0;~/Documents/code/python-bootcamp[36mcarlosblancarte[m@[32mCarlos-MacBook-Pro:[33;1m~/Documents/code/python-bootcamp[m$ md[Kkdir py
+]0;~/Documents/code/python-bootcamp[36mcarlosblancarte[m@[32mCarlos-MacBook-Pro:[33;1m~/Documents/code/python-bootcamp[m$ mkdir R
+]0;~/Documents/code/python-bootcamp[36mcarlosblancarte[m@[32mCarlos-MacBook-Pro:[33;1m~/Documents/code/python-bootcamp[m$ mkdir sh
+]0;~/Documents/code/python-bootcamp[36mcarlosblancarte[m@[32mCarlos-MacBook-Pro:[33;1m~/Documents/code/python-bootcamp[m$ nano README.t[Kmd
+>]0;~/Documents/code/python-bootcamp[36mcarlosblancarte[m@[32mCarlos-MacBook-Pro:[33;1m~/Documents/code/python-bootcamp[m$ which rstudio
+[K[36mcarlosblancarte[m@[32mCarlos-MacBook-Pro:[33;1m~/Documents/code/python-bootcamp[m$ which python
+/Users/carlosblancarte/anaconda3/bin/python
+]0;~/Documents/code/python-bootcamp[36mcarlosblancarte[m@[32mCarlos-MacBook-Pro:[33;1m~/Documents/code/python-bootcamp[m$ which R
+/Users/carlosblancarte/anaconda3/bin/R
+]0;~/Documents/code/python-bootcamp[36mcarlosblancarte[m@[32mCarlos-MacBook-Pro:[33;1m~/Documents/code/python-bootcamp[m$ R --version
+WARNING: ignoring environment value of R_HOME
+R version 3.5.1 (2018-07-02) -- "Feather Spray"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin13.4.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under the terms of the
+GNU General Public License versions 2 or 3.
+For more information about these matters see
+http://www.gnu.org/licenses/.
+
+]0;~/Documents/code/python-bootcamp[36mcarlosblancarte[m@[32mCarlos-MacBook-Pro:[33;1m~/Documents/code/python-bootcamp[m$ 

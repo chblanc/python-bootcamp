@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539195220665.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4128825674",
+    "id" : "AFF350EA",
+    "lastKnownWriteTime" : 1539205183,
+    "last_content_update" : 1539205183173,
+    "path" : "~/Documents/code/python-bootcamp/env/create-env.sh",
+    "project_path" : "env/create-env.sh",
+    "properties" : {
+        "cursorPosition" : "36,26",
+        "scrollLine" : "24"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sh"
+}
