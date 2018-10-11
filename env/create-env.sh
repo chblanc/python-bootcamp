@@ -41,7 +41,7 @@ conda install -c r r-devtools
 conda install -c r r-e1071
 conda install -c r r-matrix 
 conda install -c r r-reticulate
-
+conda install -c r r-png
 
 # add .Rprofile ---------------------------------------------------------------
 
