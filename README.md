@@ -12,7 +12,10 @@ once the installation finishes (~7 minutes) source the environment and run
 `rstudio`: 
 
   `source activate python-bootcamp`
+
+followed by
   `rstudio`
 
 This will pop-open an `RStudio` session which you can use to open the project `R`
-project file in the repo. 
+project file in the repo. Python files (`py/`) can be run straight from the `R`
+terminal as you would with a regular `R` script.
